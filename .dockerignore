@@ -1,0 +1,14 @@
+node_modules
+.pnpm-store
+.docusaurus
+website/.docusaurus
+website/build
+website/node_modules
+packages/*/lib
+packages/*/node_modules
+coverage
+.nyc_output
+.vscode
+.idea
+.DS_Store
+*.log
